@@ -1,7 +1,7 @@
 
 # Amilcar Sanchez Portfolio
 
-I am a computer science major at CSUF and I plan on graduating in 2028
+This is my homepage! My name is Amilcar Sanchez and I am a computer science major at California State University Fullerton. I plan on graduating in 2028.
 
 ## Favorite CPSC 120 Labs
 
